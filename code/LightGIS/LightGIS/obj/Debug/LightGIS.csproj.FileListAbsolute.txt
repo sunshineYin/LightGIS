@@ -1,0 +1,9 @@
+E:\课内学习资料\大三下\地理信息系统原理\作业1(new)\code\LightGIS\LightGIS\bin\Debug\LightGIS.exe
+E:\课内学习资料\大三下\地理信息系统原理\作业1(new)\code\LightGIS\LightGIS\bin\Debug\LightGIS.pdb
+E:\课内学习资料\大三下\地理信息系统原理\作业1(new)\code\LightGIS\LightGIS\obj\Debug\LightGIS.csprojAssemblyReference.cache
+E:\课内学习资料\大三下\地理信息系统原理\作业1(new)\code\LightGIS\LightGIS\obj\Debug\LightGIS.mainForm.resources
+E:\课内学习资料\大三下\地理信息系统原理\作业1(new)\code\LightGIS\LightGIS\obj\Debug\LightGIS.Properties.Resources.resources
+E:\课内学习资料\大三下\地理信息系统原理\作业1(new)\code\LightGIS\LightGIS\obj\Debug\LightGIS.csproj.GenerateResource.cache
+E:\课内学习资料\大三下\地理信息系统原理\作业1(new)\code\LightGIS\LightGIS\obj\Debug\LightGIS.csproj.CoreCompileInputs.cache
+E:\课内学习资料\大三下\地理信息系统原理\作业1(new)\code\LightGIS\LightGIS\obj\Debug\LightGIS.exe
+E:\课内学习资料\大三下\地理信息系统原理\作业1(new)\code\LightGIS\LightGIS\obj\Debug\LightGIS.pdb
